@@ -1,2 +1,1 @@
-# serverinjava
-Server client app
+# Implementation of server client app in Java
